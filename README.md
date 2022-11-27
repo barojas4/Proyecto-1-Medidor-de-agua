@@ -22,10 +22,10 @@ Analizar los componentes que forman el circuito eléctrico
 
 Conocer la manera que interactúan los transistores con el circuito eléctrico formado 
 
-## Marco teorico 
+## 2.Marco teorico 
 
 
-## Procedimiento 
+## 3.Procedimiento 
 
 Materiales 
 
@@ -47,7 +47,7 @@ Procedimiento
 4. Desde el polo postivo sacamos una resistencia que sera nuestro punto comun 
 5. Con los cables de conexión ubicados en el punto común y en la base de nuestros transistores lo sacamos hacia el exterior y utilizar como medidor teniendo en cuenta que nuestro punto de referencia es el que está conectado a la resistencia que habíamos sacado a la polaridad positiva
 
-## Video
+## 4.Video
 
 
 
