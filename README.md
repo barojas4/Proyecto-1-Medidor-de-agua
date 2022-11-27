@@ -1,4 +1,4 @@
-                                        UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
                                                                 ELECTRICA Y ELECTRONICA
 
 Integrantes: Chamba Jose, Reinoso Luis, Rojas Brayan
