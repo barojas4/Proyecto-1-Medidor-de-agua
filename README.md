@@ -47,6 +47,8 @@ Procedimiento
 4. Desde el polo postivo sacamos una resistencia que sera nuestro punto comun 
 5. Con los cables de conexión ubicados en el punto común y en la base de nuestros transistores lo sacamos hacia el exterior y utilizar como medidor teniendo en cuenta que nuestro punto de referencia es el que está conectado a la resistencia que habíamos sacado a la polaridad positiva
 
+## Video
+
 
 
 
