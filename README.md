@@ -59,7 +59,18 @@ Procedimiento
 https://www.youtube.com/watch?v=J9P0jIZfmk4
 
 
+ ## 5.Conlusión 
+ 
+ * En conclusión en el proyecto presente se logra entender varios conceptos tratados en clase como el uso de resistores, la resistencia de cada uno, la fuente de poder en este caso una bateria de 9V, el uso de un protobard y otros conceptos necesarios en la electronica .
+  
+* Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró alcanzar el objetivo que es el analisis de de los componentes que conforman el circuito electrico.
 
+
+## 6. Bibliografía
+
+* Floyd, T.(2007). Principios de circuitos electricos(Octava edi). México Pearson
+
+* Video: https://www.youtube.com/watch?v=eix344ZICKA
 
 
 
