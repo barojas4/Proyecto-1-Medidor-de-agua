@@ -24,6 +24,13 @@ Conocer la manera que interactúan los transistores con el circuito eléctrico f
 
 ## 2.Marco teorico 
 
+![image](https://user-images.githubusercontent.com/116810935/204411218-861d0d0a-d775-4d88-8e42-7a27f09c9fff.png)
+
+![image](https://user-images.githubusercontent.com/116810935/204411254-b454ec65-8d67-4667-a4f7-1e21c8cbca6d.png)
+
+![image](https://user-images.githubusercontent.com/116810935/204411321-ea2685fc-a18d-411d-87ff-e6758d69d57b.png)
+
+
 
 ## 3.Procedimiento 
 
